@@ -1,0 +1,1 @@
+C:\PowerShell\Set-ADAccountasLocalAdministrator.ps1 -Computer USGVLGZT8FV1 -Trustee babgsetc\v_jhamilton

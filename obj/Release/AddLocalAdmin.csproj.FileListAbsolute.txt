@@ -1,0 +1,42 @@
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\bin\Release\AddLocalAdmin.exe.config
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\bin\Release\AddLocalAdmin.exe.manifest
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\bin\Release\AddLocalAdmin.application
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\bin\Release\AddLocalAdmin.exe
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\bin\Release\AddLocalAdmin.pdb
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\bin\Release\AddLocalAdmin.exe.CodeAnalysisLog.xml
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\bin\Release\AddLocalAdmin.exe.lastcodeanalysissucceeded
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\bin\Release\System.Management.Automation.dll
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\MainWindow.g.cs
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\App.g.cs
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin_MarkupCompile.cache
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin_MarkupCompile.lref
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\MainWindow.baml
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin.g.resources
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin.Properties.Resources.resources
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin.csproj.GenerateResource.Cache
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin.exe.manifest
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin.application
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin.exe
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin.pdb
+C:\Users\v_jhamilton\Documents\Visual Studio 2015\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin_Content.g.cs
+C:\Release\Resources\ADAccountasLocalAdministrator.ps1
+C:\Release\Resources\RemoveAccountasLocalAdministrator.ps1
+C:\Release\AddLocalAdmin.exe.config
+C:\Release\AddLocalAdmin.exe.manifest
+C:\Release\AddLocalAdmin.application
+C:\Release\AddLocalAdmin.exe
+C:\Release\AddLocalAdmin.pdb
+C:\Users\v_jhamilton\Documents\Visual Studio 2013\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin.csprojResolveAssemblyReference.cache
+C:\Users\v_jhamilton\Documents\Visual Studio 2013\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\MainWindow.g.cs
+C:\Users\v_jhamilton\Documents\Visual Studio 2013\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\App.g.cs
+C:\Users\v_jhamilton\Documents\Visual Studio 2013\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin_Content.g.cs
+C:\Users\v_jhamilton\Documents\Visual Studio 2013\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin_MarkupCompile.cache
+C:\Users\v_jhamilton\Documents\Visual Studio 2013\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin_MarkupCompile.lref
+C:\Users\v_jhamilton\Documents\Visual Studio 2013\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\MainWindow.baml
+C:\Users\v_jhamilton\Documents\Visual Studio 2013\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin.g.resources
+C:\Users\v_jhamilton\Documents\Visual Studio 2013\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin.Properties.Resources.resources
+C:\Users\v_jhamilton\Documents\Visual Studio 2013\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin.csproj.GenerateResource.Cache
+C:\Users\v_jhamilton\Documents\Visual Studio 2013\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin.exe.manifest
+C:\Users\v_jhamilton\Documents\Visual Studio 2013\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin.application
+C:\Users\v_jhamilton\Documents\Visual Studio 2013\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin.exe
+C:\Users\v_jhamilton\Documents\Visual Studio 2013\Projects\AddLocalAdmin\AddLocalAdmin\obj\Release\AddLocalAdmin.pdb

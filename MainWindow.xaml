@@ -1,0 +1,51 @@
+﻿<Window
+    
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AddLocalAdmin"
+        xmlns:Properties="clr-namespace:AddLocalAdmin.Properties" x:Name="MainForm" x:Class="AddLocalAdmin.MainWindow"
+         
+        mc:Ignorable="d"
+        Title="Add Local Administrator" Height="459" Width="488.603" Background="#FFE5E5E5" BorderBrush="#FF717171" WindowStyle="ThreeDBorderWindow" BorderThickness="1">
+    <Grid Margin="0,0,2,0">
+
+        <TextBox x:Name="domainNameBox" Height="25" Margin="27,26,205,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="1" RenderTransformOrigin="0.5,0.5" VerticalScrollBarVisibility="Auto"                
+            ToolTip="Enter the domain name that the computer and user belong to. &#x0a;Do not add any \\ just the name.&#x0a;Example: MYDOMAIN"  ToolTipService.HasDropShadow="true" ToolTipService.InitialShowDelay="1000"
+            ToolTipService.ShowDuration="10000" ToolTipService.Placement="Relative" ToolTipService.HorizontalOffset="235" ToolTipService.VerticalOffset="0" />
+
+        <TextBox x:Name="computerNameBox" Height="25" Margin="27,86,205,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="2" VerticalScrollBarVisibility="Auto"
+            ToolTip="Enter the name of the computer.&#x0a;You can add/remove multiple computers by seperating them with a comma and no spaces.&#x0a;Example: computer1,computer2,computer3"  ToolTipService.HasDropShadow="true" ToolTipService.InitialShowDelay="1000"
+            ToolTipService.ShowDuration="10000" ToolTipService.Placement="Relative" ToolTipService.HorizontalOffset="235" ToolTipService.VerticalOffset="0"/>
+
+        <Label x:Name="domainNameLabel" Content="Domain Name" HorizontalAlignment="Left" Margin="27,53,0,0" VerticalAlignment="Top" Width="130" Cursor="None" VerticalContentAlignment="Stretch"/>
+
+        <Label x:Name="computerNameLabel" Content="Computer Name" HorizontalAlignment="Left" Margin="27,116,0,0" VerticalAlignment="Top" Width="130" Cursor="None" 
+               VerticalContentAlignment="Stretch"/>
+
+        <TextBox x:Name="userNameBox" Height="25" Margin="27,152,205,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="3" VerticalScrollBarVisibility="Auto"
+            ToolTip="Enter the user or group name you want to add/remove as a local admin.&#x0a;You can only add/remove one user or group at a time. &#x0a;Example: myusername"  ToolTipService.HasDropShadow="true" ToolTipService.InitialShowDelay="1000"
+            ToolTipService.ShowDuration="10000" ToolTipService.Placement="Relative" ToolTipService.HorizontalOffset="235" ToolTipService.VerticalOffset="0"/>
+
+        <Label x:Name="userNameLabel" Content="User or Group Name" HorizontalAlignment="Left" Margin="27,182,0,0" VerticalAlignment="Top" Width="130" Cursor="None" 
+               VerticalContentAlignment="Stretch"/>
+
+        <Button x:Name="addButton" Content="Add Local Admin" Height="61" Margin="0,116,28,0" VerticalAlignment="Top" Click="addButton_Click" TabIndex="4" 
+                HorizontalAlignment="Right" Width="130"
+                ToolTip="Press this button to start the process of adding the user/group to the specified computers."  ToolTipService.HasDropShadow="true" ToolTipService.InitialShowDelay="1000"
+                ToolTipService.ShowDuration="10000" ToolTipService.Placement="Relative" ToolTipService.HorizontalOffset="0" ToolTipService.VerticalOffset="-25"/>
+
+        <TextBox x:Name="resultsBox" Margin="27,213,28,39" TextWrapping="Wrap" IsReadOnly="True" IsUndoEnabled="False" VerticalScrollBarVisibility="Auto" 
+                 IsTabStop="False" TextOptions.TextFormattingMode="Display" UseLayoutRounding="False"/>
+
+        <Label x:Name="resultsLabel" Content="Results" Margin="116,0,116,13" VerticalAlignment="Bottom" Cursor="None" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Center"/>
+
+        <Button x:Name="removeButton" Content="Remove Local Admin" Height="61" Margin="0,26,28,0" VerticalAlignment="Top" Click="removeButton_Click" TabIndex="4" 
+        	HorizontalAlignment="Right" Width="130"
+                ToolTip="Press this button to start the process of removing the user/group from the specified computers."  ToolTipService.HasDropShadow="true" ToolTipService.InitialShowDelay="1000"
+                ToolTipService.ShowDuration="10000" ToolTipService.Placement="Relative" ToolTipService.HorizontalOffset="0" ToolTipService.VerticalOffset="-25"/>
+
+    </Grid>
+</Window>
+
